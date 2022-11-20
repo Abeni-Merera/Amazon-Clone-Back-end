@@ -1,0 +1,41 @@
+.address{
+    background-color: white !important;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+
+.confirm{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.address__container {
+    border: 1px solid lightgray;
+    background-color: rgb(234, 237, 237);
+    align-items: center;
+  padding-right: 20px;
+  padding-left: 20px;
+    margin-top: 15px;
+    font-style: 12px;
+    }
+
+.address__logo{
+    width: 100%;
+    height: 50px;
+   
+    object-fit: contain;
+     /* margin-bottom: 10px; */
+     margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+      
+}
+.address__signInB{
+    background: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9e7e31 #846a29;
+}

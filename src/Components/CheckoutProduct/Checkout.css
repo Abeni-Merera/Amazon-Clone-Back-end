@@ -1,0 +1,26 @@
+
+.subtotal__component{
+    padding-left: 10px;
+    /* width: 30%; */
+}
+
+.checkout{
+    display: flex;
+    height: max-content;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.checkout__img{
+    width: 100%;
+    margin-bottom: 10px;
+   
+}
+
+.checkout__title{
+margin: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+ border-bottom: 1px solid lightgray;
+}
